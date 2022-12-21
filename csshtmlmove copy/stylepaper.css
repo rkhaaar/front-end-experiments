@@ -1,0 +1,152 @@
+body{
+    margin: 0;
+    list-style: none;
+    font-family: Caveat;
+    color: #f86041;
+    background-color: #343779;
+    width: 100vw;
+    height: 100vh;
+}
+
+#navbar{
+    position: fixed;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    flex-wrap: wrap;
+    width:100%;
+    height: 48px;
+    border-color: #f86041;
+    border-style: inset;
+    background-color:#343779;
+   
+}
+#scroller{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-top: 0;
+}
+
+#plane{
+    position:-webkit-sticky;
+    position: sticky;
+    top: 45%;
+    margin-bottom: 40%;
+    margin-left: 40%;
+    margin-top: -50%;
+    
+}
+#jetplane{
+    width: 30%;
+    height: 30%;
+}
+#carrier{
+    width: 70%;
+    height:60%;
+    margin-left: 15%;
+    margin-top: 20%;
+}
+
+
+#next{
+    width: 100%;
+    height:100vh;
+    text-align: center;
+    margin-top: 50%;
+}
+ #next h1{
+    margin-top: 50%;
+   font-size: 300%;
+}
+#normalcloud1{
+    margin-left: -30%;
+    width: 50%;
+    max-width:600px;
+}
+#normalcloud2{
+    position: absolute;
+width: 50%;
+margin-top: 30%;
+margin-left: -10%;
+max-width:600px;
+}
+#next h2{
+    font-size: 200%;
+}
+
+#next2{
+    width: 100%;
+    height:100vh;
+    text-align: center;
+    margin-top: 50%;
+}
+
+#next2 h2{
+    margin-top: 50%;
+    font-size: 200%;
+}
+.absolutecloud{
+    position: absolute;
+    width: 50%;
+    max-width:500px;
+}
+
+#next3{
+    width: 100%;
+    height:100vh;
+    text-align: center;
+    margin-top: 50%;
+}
+#next3 h2{
+    margin-top: 50%;
+    font-size: 200%;
+}
+#next4{
+    width: 100%;
+    height:100vh;
+    text-align: center;
+    margin-top: 50%;
+}
+#next4 h2{
+    margin-top: 50%;
+    font-size: 200%;
+}
+#next5{
+    width: 100%;
+    height:100vh;
+    text-align: center;
+    margin-top: 50%;
+}
+#next5 h2{
+    margin-top: 50%;
+    font-size: 200%;
+}
+#next6{
+    width: 100%;
+    height:100vh;
+    text-align: center;
+    margin-top: 50%;
+}
+#normalcloud3{
+    width: 80%;
+    max-width:600px;
+}
+#next6 h2{
+    margin-top: 50%;
+    font-size: 200%;
+}
+#footersection{
+    width: 100%;
+    height:100vh;
+    text-align: center;
+    margin-top: 50%;
+}
+#carrierland{
+  
+   width: 70%;
+    height:60%;
+    margin-left: 13%;
+    margin-top: 20%;
+    
+}
